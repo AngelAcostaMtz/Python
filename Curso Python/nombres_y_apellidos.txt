@@ -1,0 +1,14 @@
+Los datos son:
+
+Nombre: angel
+Apellido: Acosta
+------------
+Nombre: angelito
+Apellido: Martinez
+------------
+Nombre: Mathias
+Apellido: Acosta
+------------
+Nombre: Diego
+Apellido: Martinez
+------------
